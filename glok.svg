@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="325.92819mm"
+   height="46.67725mm"
+   viewBox="0 0 325.9282 46.67725"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="glok.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.306471"
+     inkscape:cx="938.02312"
+     inkscape:cy="-222.35473"
+     inkscape:window-width="1657"
+     inkscape:window-height="2137"
+     inkscape:window-x="1090"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, heavy arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.132572,-91.336019)">
+    <g
+       id="g1"
+       transform="matrix(1.7929679,0,0,1.7929679,-16.757453,-72.426537)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.0194px;fill:#fa8177;fill-opacity:1;stroke:#000000;stroke-width:0.442167;stroke-dasharray:none;stroke-opacity:0.934595"
+         x="20.757008"
+         y="115.70947"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#fa8177;fill-opacity:1;stroke-width:0.442167;stroke-dasharray:none"
+           x="20.757008"
+           y="115.70947">Гло́кая ку́здра ште́ко будлану́ла бо́кра и курдя́чит бокрёнка</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.694998;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="m 28.634393,108.60926 c 8.796871,-19.93597 20.31642,-9.35368 20.85824,1.35707"
+         id="path5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.694998;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="m 55.177687,109.23283 c 8.796871,-19.935974 40.879992,-9.68746 41.421812,1.02329"
+         id="path1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.64538;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="M 92.406769,110.61476 C 82.443861,95.435748 69.397381,103.49298 68.783742,111.64801"
+         id="path2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.64538;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="m 103.73716,110.3778 c 9.96291,-15.179011 23.00939,-7.12178 23.62303,1.03325"
+         id="path3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.64538;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="M 52.540316,108.85498 C 57.758328,76.544133 147.62193,97.155373 156.90479,111.01951"
+         id="path6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.64538;stroke-dasharray:none;stroke-opacity:0.934595;marker-start:url(#ArrowWideHeavy)"
+         d="m 164.92854,111.09581 c 9.96291,-15.179013 23.00939,-7.12178 23.62303,1.03325"
+         id="path7"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

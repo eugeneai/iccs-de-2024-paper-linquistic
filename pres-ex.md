@@ -1,9 +1,10 @@
 ---
+
 title: Syntactic analyzer of the Russian language based on morphology data: a functional approach
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+<!-- backgroundImage: url('https://marp.app/assets/hero-background.svg') -->
 ---
 
 # Syntactic analyzer of the Russian language based on morphology data: a functional approach
@@ -39,6 +40,13 @@ _Irkutsk State University, Irkutsk, Russia_
 
 # Analogous software systems
 
+ - Context-dependent parser (extension of CF-parsers)
+ - **Dependency grammar (parsers)**
+ - Content grammar
+ - Homonymy removal
+ - Morphological analysis
+ - Link-grammar
+
 ---
 
 # Aim of investigation
@@ -59,9 +67,7 @@ Aim is to **Implement list flow _probably_ one-pass syntax analyzer with Haskell
 # Architecture
 
 
----
-
-# Result representation
+![width:100%](architecture.svg)
 
 ---
 
@@ -106,6 +112,13 @@ instance Rule GRAM where
           lfm _ _ = False
 ```
 
+
+---
+
+# Data representation
+
+![width:200%](glok.svg)
+
 ---
 
 # A primitive example
@@ -136,19 +149,9 @@ score= 0.333
 
 ---
 
-#
+# Further development
 
 
-
-
-```markdown
-# Slide 1
-
-foobar
-
----
-
-# Slide 2
-
-foobar
-```
+  - Add 210 Rules from ETAP
+  - Implement reverse order
+  - Basic research: interpret concrete
